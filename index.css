@@ -9,11 +9,47 @@ body {
   font-weight: 300;
   border: 4px solid black;
 }
-.button {
+.ResumeTab {
         background-color: #1c87c9;
         border: none;
         color: white;
-        padding: 20px 34px;
+        padding: 15px 2px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+.GitHubTab {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 15px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+.AboutMeTab {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 15px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+.LinkdinTab {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 15px 20px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
