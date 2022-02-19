@@ -1,9 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color:black;
 }
-h1 {
-  color: white;
-}
-p {
-  color: red;
+.Title {
+  color: royalblue;
+  position: absolute;
+  top: 50px;
+  left: 250px;
+  font-weight: 300;
+  
 }
